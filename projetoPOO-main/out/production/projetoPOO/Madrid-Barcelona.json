@@ -1,0 +1,870 @@
+{
+  "colunas": 6,
+  "filas": 30,
+  "lugaresReservados": [
+    {
+      "preco": 200.0,
+      "assento": "2B",
+      "idPassageiro": 1,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 200.0,
+      "assento": "1A",
+      "idPassageiro": 1,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 200.0,
+      "assento": "3C",
+      "idPassageiro": 4,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 200.0,
+      "assento": "1B",
+      "idPassageiro": 3,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 200.0,
+      "assento": "1C",
+      "idPassageiro": 1,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "30A",
+      "idPassageiro": 5,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 200.0,
+      "assento": "5B",
+      "idPassageiro": 3,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 230.0,
+      "assento": "2A",
+      "idPassageiro": 1,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 200.0,
+      "assento": "1D",
+      "idPassageiro": 4,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 230.0,
+      "assento": "1E",
+      "idPassageiro": 5,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 230.0,
+      "assento": "1F",
+      "idPassageiro": 6,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 200.0,
+      "assento": "2C",
+      "idPassageiro": 9,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 230.0,
+      "assento": "2D",
+      "idPassageiro": 10,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 230.0,
+      "assento": "2E",
+      "idPassageiro": 11,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 200.0,
+      "assento": "2F",
+      "idPassageiro": 12,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 200.0,
+      "assento": "3A",
+      "idPassageiro": 13,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 200.0,
+      "assento": "3B",
+      "idPassageiro": 14,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 230.0,
+      "assento": "3D",
+      "idPassageiro": 16,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 230.0,
+      "assento": "3E",
+      "idPassageiro": 17,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 230.0,
+      "assento": "3F",
+      "idPassageiro": 18,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 200.0,
+      "assento": "4A",
+      "idPassageiro": 19,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 230.0,
+      "assento": "4B",
+      "idPassageiro": 20,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 200.0,
+      "assento": "4C",
+      "idPassageiro": 21,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 200.0,
+      "assento": "4D",
+      "idPassageiro": 22,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 230.0,
+      "assento": "4E",
+      "idPassageiro": 23,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 200.0,
+      "assento": "4F",
+      "idPassageiro": 24,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 200.0,
+      "assento": "5A",
+      "idPassageiro": 25,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 200.0,
+      "assento": "5C",
+      "idPassageiro": 27,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 230.0,
+      "assento": "5D",
+      "idPassageiro": 28,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 200.0,
+      "assento": "5E",
+      "idPassageiro": 29,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 230.0,
+      "assento": "5F",
+      "idPassageiro": 30,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 230.0,
+      "assento": "6A",
+      "idPassageiro": 31,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 200.0,
+      "assento": "6B",
+      "idPassageiro": 32,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 200.0,
+      "assento": "6C",
+      "idPassageiro": 33,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 200.0,
+      "assento": "6D",
+      "idPassageiro": 34,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 230.0,
+      "assento": "6E",
+      "idPassageiro": 35,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 230.0,
+      "assento": "6F",
+      "idPassageiro": 36,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "7A",
+      "idPassageiro": 37,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "7B",
+      "idPassageiro": 38,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "7C",
+      "idPassageiro": 39,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "7D",
+      "idPassageiro": 40,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "7E",
+      "idPassageiro": 41,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "7F",
+      "idPassageiro": 42,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "8A",
+      "idPassageiro": 43,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "8B",
+      "idPassageiro": 44,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "8C",
+      "idPassageiro": 45,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "8D",
+      "idPassageiro": 46,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "8E",
+      "idPassageiro": 47,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "8F",
+      "idPassageiro": 48,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "9A",
+      "idPassageiro": 49,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "9B",
+      "idPassageiro": 50,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "9C",
+      "idPassageiro": 51,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "9D",
+      "idPassageiro": 52,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "9E",
+      "idPassageiro": 53,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "9F",
+      "idPassageiro": 54,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "10A",
+      "idPassageiro": 55,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "10B",
+      "idPassageiro": 56,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "10C",
+      "idPassageiro": 57,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "10D",
+      "idPassageiro": 58,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "10E",
+      "idPassageiro": 59,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "10F",
+      "idPassageiro": 60,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "11A",
+      "idPassageiro": 61,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "11B",
+      "idPassageiro": 62,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "11C",
+      "idPassageiro": 63,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "11D",
+      "idPassageiro": 64,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "11E",
+      "idPassageiro": 65,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "11F",
+      "idPassageiro": 66,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "12A",
+      "idPassageiro": 67,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "12B",
+      "idPassageiro": 68,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "12C",
+      "idPassageiro": 69,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "12D",
+      "idPassageiro": 70,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "12E",
+      "idPassageiro": 71,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "12F",
+      "idPassageiro": 72,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "13A",
+      "idPassageiro": 73,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "13B",
+      "idPassageiro": 74,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "13C",
+      "idPassageiro": 75,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "13D",
+      "idPassageiro": 76,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "13E",
+      "idPassageiro": 77,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "13F",
+      "idPassageiro": 78,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "14A",
+      "idPassageiro": 79,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "14B",
+      "idPassageiro": 80,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "14C",
+      "idPassageiro": 81,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "14D",
+      "idPassageiro": 82,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "14E",
+      "idPassageiro": 83,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "14F",
+      "idPassageiro": 84,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "15A",
+      "idPassageiro": 85,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "15B",
+      "idPassageiro": 86,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "15C",
+      "idPassageiro": 87,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "15D",
+      "idPassageiro": 88,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "15E",
+      "idPassageiro": 89,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "15F",
+      "idPassageiro": 90,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "16A",
+      "idPassageiro": 91,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "16B",
+      "idPassageiro": 92,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "16C",
+      "idPassageiro": 93,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "16D",
+      "idPassageiro": 94,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "16E",
+      "idPassageiro": 95,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "16F",
+      "idPassageiro": 96,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "17A",
+      "idPassageiro": 97,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "17B",
+      "idPassageiro": 98,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "17C",
+      "idPassageiro": 99,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "17D",
+      "idPassageiro": 100,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "17E",
+      "idPassageiro": 101,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "17F",
+      "idPassageiro": 102,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "18A",
+      "idPassageiro": 103,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "18B",
+      "idPassageiro": 104,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "18C",
+      "idPassageiro": 105,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "18D",
+      "idPassageiro": 106,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "18E",
+      "idPassageiro": 107,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "18F",
+      "idPassageiro": 108,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "19A",
+      "idPassageiro": 109,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "19B",
+      "idPassageiro": 110,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "19C",
+      "idPassageiro": 111,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "19D",
+      "idPassageiro": 112,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "19E",
+      "idPassageiro": 113,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "19F",
+      "idPassageiro": 114,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "20A",
+      "idPassageiro": 115,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "20B",
+      "idPassageiro": 116,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "20C",
+      "idPassageiro": 117,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "20D",
+      "idPassageiro": 118,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "20E",
+      "idPassageiro": 119,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "20F",
+      "idPassageiro": 120,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "21A",
+      "idPassageiro": 121,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "21B",
+      "idPassageiro": 122,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "21C",
+      "idPassageiro": 123,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "21D",
+      "idPassageiro": 124,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "21E",
+      "idPassageiro": 125,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "21F",
+      "idPassageiro": 126,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "22A",
+      "idPassageiro": 127,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "22B",
+      "idPassageiro": 128,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "22C",
+      "idPassageiro": 129,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "22D",
+      "idPassageiro": 130,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "22E",
+      "idPassageiro": 131,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "22F",
+      "idPassageiro": 132,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "23A",
+      "idPassageiro": 133,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "23B",
+      "idPassageiro": 134,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "23C",
+      "idPassageiro": 135,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "23D",
+      "idPassageiro": 136,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "23E",
+      "idPassageiro": 137,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "23F",
+      "idPassageiro": 138,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 80.0,
+      "assento": "24A",
+      "idPassageiro": 139,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "24B",
+      "idPassageiro": 140,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 110.0,
+      "assento": "24C",
+      "idPassageiro": 141,
+      "bagagemExtra": true
+    },
+    {
+      "preco": 80.0,
+      "assento": "24D",
+      "idPassageiro": 142,
+      "bagagemExtra": false
+    },
+    {
+      "preco": 110.0,
+      "assento": "24E",
+      "idPassageiro": 143,
+      "bagagemExtra": true
+    }
+  ]
+}
